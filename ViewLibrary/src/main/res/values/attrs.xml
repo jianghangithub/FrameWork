@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleBarView">
+        <attr name="title_bar_title" format="string" />
+        <attr name="title_bar_bac_color" format="color" />
+        <attr name="title_bar_right" format="string" />
+        <attr name="title_bar_right_visiable" format="boolean" />
+        <attr name="title_bar_right_img" format="reference" />
+        <attr name="title_bar_cancle_button_visiable" format="boolean" />
+    </declare-styleable>
+</resources>

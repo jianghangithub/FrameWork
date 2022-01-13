@@ -1,0 +1,13 @@
+ext {
+    // SDK And Tools
+    minSdkVersion = 14
+    targetSdkVersion = 29
+    compileSdkVersion = 29
+    //buildToolsVersion = '24.0.2'
+
+    //Dependencies
+    supportLibraryVersion = '28.0.0'
+    //AndroidX
+
+    retrofit = '2.4.0'
+}
